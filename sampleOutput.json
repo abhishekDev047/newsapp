@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 36,
+    "articles": [
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Tierney Sneed, Katelyn Polantz, Sara Murray",
+            "title": "Clarence Thomas was 'key' to a plan to delay certification of 2020 election, Trump lawyers said in emails - CNN",
+            "description": "A lawyer for former President Donald Trump described Supreme Court Justice Clarence Thomas as \"key\" to Trump's plan to delay Congress' certification of President Joe Biden's victory through litigation after the 2020 election, according to emails recently turn…",
+            "url": "https://www.cnn.com/2022/11/02/politics/clarence-thomas-trump-eastman-emails/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220606114957-01-clarence-thomas-file.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-11-02T16:31:00Z",
+            "content": "A lawyer for former President Donald Trump described Supreme Court Justice Clarence Thomas as key to Trumps plan to delay Congress certification of President Joe Bidens victory through litigation aft… [+2168 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Putin: We could quit grain deal again, but would not block grain for Turkey - Reuters",
+            "description": "President Vladimir Putin on Wednesday reserved Russia's right to withdraw again from an international agreement allowing Ukraine to export grain via the Black Sea, after ending four days of non-cooperation with the deal.",
+            "url": "https://www.reuters.com/world/russia-resume-participation-black-sea-grain-deal-defence-ministry-2022-11-02/",
+            "urlToImage": "https://www.reuters.com/resizer/fkZ3aoqDrQr8HVQq4wyc18jWUeQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/U6BC4DBLNBKGXGZWOAVIR26MAI.jpg",
+            "publishedAt": "2022-11-02T15:37:00Z",
+            "content": "Nov 2 (Reuters) - President Vladimir Putin on Wednesday reserved Russia's right to withdraw again from an international agreement allowing Ukraine to export grain via the Black Sea, after ending four… [+3242 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Christina Applegate shares struggle living with MS l GMA - Good Morning America",
+            "description": "The actress was diagnosed with multiple sclerosis in 2021 and spoke to The New York Times about what it took for her to finish the Netflix series “Dead to Me...",
+            "url": "https://www.youtube.com/watch?v=vLPS32HEVno",
+            "urlToImage": "https://i.ytimg.com/vi/vLPS32HEVno/maxresdefault.jpg",
+            "publishedAt": "2022-11-02T15:05:06Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Mike Ozanian",
+            "title": "Dan Snyder Hires Bank Of America To Sell Washington Commanders - Forbes",
+            "description": "Neither the Commanders or Bank of America, which has handled such notable team sales as the purchase of the Los Angeles Clippers by Steve Ballmer, would comment.",
+            "url": "https://www.forbes.com/sites/mikeozanian/2022/11/02/dan-snyder-hires-bank-of-america-to-sell-washington-commanders/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/636280348751015e2908fd10/0x0.jpg?format=jpg&width=1200",
+            "publishedAt": "2022-11-02T14:40:08Z",
+            "content": "Whoever buys the Commanders gets the talented Terry McLaurin, No. 17. (Photo by Mitchell Layton/Getty Images)\r\nGetty Images\r\nDan Snyder has retained BofA Securities to sell the Washington Commanders,… [+1567 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Samantha Subin, Tanaya Macheel",
+            "title": "Stocks fall as Wall Street prepares for Fed rate decision - CNBC",
+            "description": "Investors are bracing for the Federal Reserve's latest policy decision at the conclusion of its meeting on Wednesday.",
+            "url": "https://www.cnbc.com/2022/11/01/stock-market-futures-open-to-close-news.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107142884-NYSE-Trading-Floor-OB-20221028-CC-PRESS-1.jpg?v=1667340197&w=1920&h=1080",
+            "publishedAt": "2022-11-02T14:39:00Z",
+            "content": "Stocks fell Wednesday as investors braced for the Federal Reserve's latest rate decision at the conclusion of its policy meeting.\r\nThe Dow Jones Industrial Average tumbled 130 points, or 0.4%. The S&… [+1422 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Eliott C. McLaughlin, Amir Vera",
+            "title": "Houston officials plead for witnesses to come forward in killing of 'peaceful' rapper Takeoff - CNN",
+            "description": "Houston officials vowed to deliver justice in the killing of rapper Takeoff, with the chief of police calling the 28-year-old Atlantan a \"peaceful\" man and urging any witnesses to the shooting to come forward.",
+            "url": "https://www.cnn.com/2022/11/02/entertainment/takeoff-shooting-houston-police/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221101102543-02-takeoff-file.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-11-02T14:39:00Z",
+            "content": "Houston officials vowed to deliver justice in the killing of rapper Takeoff, with the chief of police calling the 28-year-old Atlantan a peaceful man and urging any witnesses to the shooting to come … [+6129 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "US Election 2022 LIVE | US Midterm Elections | Will Kari Lake Be The Next Arizona Governor? |News18 - CNN-News18",
+            "description": "US Elections 2022 LIVE | US Midterm Elections | Will Kari Lake Be The Next Arizona Governor? | English NewsKari Lake is being pegged as “Trumpism’s leading l...",
+            "url": "https://www.youtube.com/watch?v=LMsX6ISKvdM",
+            "urlToImage": "https://i.ytimg.com/vi/LMsX6ISKvdM/maxresdefault_live.jpg",
+            "publishedAt": "2022-11-02T14:35:29Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Avatar: The Way of Water - Official Trailer (2022) Zoe Saldaña, Sam Worthington - IGN",
+            "description": "Check out the new trailer for Avatar: The Way of Water, the upcoming movie starring Sam Worthington, Zoe Saldaña, Sigourney Weaver, Stephen Lang and Kate Win...",
+            "url": "https://www.youtube.com/watch?v=pvx-kG0cgf4",
+            "urlToImage": "https://i.ytimg.com/vi/pvx-kG0cgf4/maxresdefault.jpg",
+            "publishedAt": "2022-11-02T14:23:38Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Richard Allen Greene",
+            "title": "Netanyahu on course to lead Israel's most right-wing government ever, partial Israel results suggest - CNN",
+            "description": "Benjamin Netanyahu appears to be on course for a bigger victory in Israel's fifth election in less than four years than initial exit polls suggested, all three of the country's main television channels projected Wednesday morning.",
+            "url": "https://www.cnn.com/2022/11/02/middleeast/netanyahu-israel-election-results-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221102012957-02-israel-elex-mime.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-11-02T14:11:00Z",
+            "content": "Benjamin Netanyahu appears to be on course for a bigger victory in Israels fifth election in less than four years than initial exit polls suggested, all three of the countrys main television channels… [+2978 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NBCSports.com"
+            },
+            "author": "Josh Alper",
+            "title": "Raheem Mostert: Bradley Chubb, Jeff Wilson trades are thrilling - profootballtalk.nbcsports.com",
+            "description": "The Dolphins were busy heading into Tuesday afternoon’s deadline and they wound up adding pieces on both sides of the ball before it passed.Edge rusher Bradley Chubb came from the Broncos in a trade that sent a first-round pick and running back Chase Edmonds …",
+            "url": "https://profootballtalk.nbcsports.com/2022/11/02/raheem-mostert-bradley-chubb-jeff-wilson-trades-are-thrilling/",
+            "urlToImage": "https://profootballtalk.nbcsports.com/wp-content/uploads/sites/25/2022/11/GettyImages-1244358617-1-e1667398117197.jpg",
+            "publishedAt": "2022-11-02T14:09:00Z",
+            "content": "The Dolphins were busy heading into Tuesday afternoons deadline and they wound up adding pieces on both sides of the ball before it passed.\r\nEdge rusher Bradley Chubb came from the Broncos in a trade… [+1127 chars]"
+        },
+        {
+            "source": {
+                "id": "nfl-news",
+                "name": "NFL News"
+            },
+            "author": "Michael Florio",
+            "title": "NFL Fantasy 2022 Start 'Em, Sit 'Em Week 9: Kickers - NFL.com",
+            "description": "All the answers you're looking for about your lineup questions. Check out the latest in the Start 'Em, Sit 'Em for your 2022 NFL fantasy football league.",
+            "url": "https://www.nfl.com/news/nfl-fantasy-2022-start-em-sit-em-week-9-kickers",
+            "urlToImage": "https://static.www.nfl.com/image/private/t_editorial_landscape_12_desktop/league/b9gxoegbfglmvthbetu3",
+            "publishedAt": "2022-11-02T14:00:00Z",
+            "content": "You have lineup questions. We have answers. At least we hope. Start 'Em &amp; Sit 'Em has helped fantasy managers for years make those pressing lineup decisions. And you know what is a good decision?… [+248 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AL.com"
+            },
+            "author": "Leada Gore | lgore@al.com",
+            "title": "A bill passed to end daylight saving time. Here’s why you still have to change your clocks - AL.com",
+            "description": "Get ready for another change in time. Or at least a change in the clocks.",
+            "url": "https://www.al.com/news/2022/11/a-bill-passed-to-end-daylight-saving-time-heres-why-you-still-have-to-change-your-clocks.html",
+            "urlToImage": "https://www.al.com/resizer/9yorX4c5BfAWhUEqEi4bcchoCmk=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/TAWWSGCUPREABMKAZFH63ZSVBI.jpeg",
+            "publishedAt": "2022-11-02T13:52:00Z",
+            "content": "The ritual of falling back setting clocks back one hour to mark the end of daylight saving time officially takes place at 2 a.m. Saturday. The hour clock change doesnt alter time itself, of course, b… [+2329 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Tom Phillips",
+            "title": "‘It’s over’: Jair Bolsonaro reportedly accepts defeat in Brazil election - The Guardian",
+            "description": "Bolsonaro previously failed to explicitly concede defeat to Luiz Inácio Lula da Silva in presidential vote",
+            "url": "https://www.theguardian.com/world/2022/nov/02/jair-bolsonaro-reportedly-accepts-defeat-brazil-election",
+            "urlToImage": "https://i.guim.co.uk/img/media/9629fefbff8d838910f5e668357561ec5a9eb97f/0_0_4412_2647/master/4412.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=04022dc0237467d657f94ec07b79d75e",
+            "publishedAt": "2022-11-02T13:50:00Z",
+            "content": "Jair Bolsonaro has reportedly thrown in the towel after his presidential election defeat in Brazil on Sunday, telling members of the supreme court: Its over.\r\nHe went silent for nearly two days after… [+2407 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Page Six"
+            },
+            "author": "Leah Bitsky",
+            "title": "Adele reveals the correct way to pronounce her name - Page Six",
+            "description": "The Grammy winner praised a fan who said her name “perfectly” during a Q&A to celebrate the release of her “I Drink Wine” music video.",
+            "url": "https://pagesix.com/2022/11/02/adele-reveals-correct-way-to-pronounce-her-name/",
+            "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2022/11/adele-pronounciation-name.jpg?quality=75&strip=all&w=1200",
+            "publishedAt": "2022-11-02T13:40:00Z",
+            "content": "Hello, it’s “uh-dale.”\r\nAdele revealed that most people have been pronouncing her name incorrectly and fans are in a total tizzy over her clarification.\r\nThe singer praised a London-based fan for pro… [+2111 chars]"
+        },
+        {
+            "source": {
+                "id": "ign",
+                "name": "IGN"
+            },
+            "author": "Adam Bankhurst",
+            "title": "PlayStation VR2 Release Date and Price Revealed - IGN",
+            "description": "PlayStation VR 2 will officially be released on February 22, 2023, for $549.99, and pre-orders will begin on November 15.",
+            "url": "https://www.ign.com/articles/playstation-vr2-release-date-and-price-revealed",
+            "urlToImage": "https://assets-prd.ignimgs.com/2022/11/02/psvr2-1-blogroll-1649153614328-1661958859771-1664802449173-1667394350352.jpg?width=1280",
+            "publishedAt": "2022-11-02T13:30:09Z",
+            "content": "PlayStation VR2 will officially be released on February 22, 2023, for $549.99, and pre-orders will begin on November 15.\r\nAs revealed by the PlayStation.Blog, PlayStation VR2 will include the PS VR2 … [+2089 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Yoonjung Seo, Sophie Jeong, Junko Ogura, Hilary Whiteman",
+            "title": "North Korea fired the highest number of short-range missiles in a day, says South Korea - CNN",
+            "description": "The South Korean military said Wednesday North Korea launched the highest number of short-range missiles in a day as Seoul retaliated to Pyongyang's latest barrage of weapons tests, further escalating tensions in the region.",
+            "url": "https://www.cnn.com/2022/11/01/asia/north-korea-missiles-wednesday-intl-hnk/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221101230821-01-north-korea-missiles.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-11-02T13:23:00Z",
+            "content": "The South Korean military said Wednesday North Korea launched the highest number of short-range missiles in a day as Seoul retaliated to Pyongyangs latest barrage of weapons tests, further escalating… [+6631 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Chris Welch",
+            "title": "Apple TV 4K (2022) review: unmatched power, unrealized potential - The Verge",
+            "description": "The 2022 edition of the Apple TV 4K has a faster processor, adds support for HDR10 Plus (important for Samsung TVs), and comes at a more affordable price than its predecessor. The Siri Remote also continues Apple’s USB-C transition.",
+            "url": "https://www.theverge.com/23435393/apple-tv-4k-2022-third-gen-review-price-details",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/68LxGVhvPKPfB86r9GXMRC8Npj4=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24160553/DSCF0260_2.jpg",
+            "publishedAt": "2022-11-02T13:00:00Z",
+            "content": "The latest Apple TV 4K is Apples most powerful and full-featured entertainment box yet. And its finally available for a lower, if not quite cheap, $129 starting price. Now in its third generation, th… [+13478 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Sun Sentinel"
+            },
+            "author": "Robin Webb, Victoria Ballard, Angie DiMichele",
+            "title": "Hurricane Lisa headed toward Belize; Martin also forecast to become hurricane - South Florida Sun Sentinel",
+            "description": "Hurricane Lisa developed in the Caribbean as the storm churned toward Belize on Wednesday, while Tropical Storm Martin is also forecast to become a short-lived hurricane.",
+            "url": "https://www.sun-sentinel.com/news/weather/hurricane/fl-ne-tropical-storm-lisa-martin-caribbean-nicaragua-belize-wednesday-20221102-yr3lkj3ijjgatmdz2z4qrv3epa-story.html",
+            "urlToImage": "https://www.sun-sentinel.com/resizer/j_k6xPqCbEy9VVGySzMPvCrGbpA=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/LXOGXIIFWNA4NLLUQ7OOB2CTFY.jpg",
+            "publishedAt": "2022-11-02T12:35:49Z",
+            "content": "Hurricane Lisa developed in the Caribbean as the storm churned toward Belize on Wednesday, while Tropical Storm Martin is also forecast to become a short-lived hurricane.\r\nAnd, the National Hurricane… [+2406 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Kelly Kasulis Cho",
+            "title": "After Seoul Halloween crowd crush, these are the items left behind - The Washington Post",
+            "description": "Days after the tragedy, a Seoul gymnasium was still filled with dirt-streaked belongings, as people trickled in to search the meticulously organized rows.",
+            "url": "https://www.washingtonpost.com/world/2022/11/02/seoul-halloween-crowd-crush-lost-found/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/11-02-2022/t_fb5cc20415cd4eec8f19da4d5c1a54ff_name_shoes.png&w=1440",
+            "publishedAt": "2022-11-02T12:22:00Z",
+            "content": "Comment on this story\r\nSEOUL A white jacket smeared in dirt. A purple mask from a Teletubbies costume. Two mismatched Japanese clogs. A pair of heels streaked with scuff marks.\r\nHundreds of items rec… [+3841 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Elisabeth Buchwald, USA TODAY",
+            "title": "Fed interest rate decision today: Live updates on expected rate hike - USA TODAY",
+            "description": "The Federal Reserve is poised to hike interest rates for the sixth time this year to fight inflation. The aggressive hikes risk igniting a recession.",
+            "url": "https://www.usatoday.com/story/money/2022/11/02/fed-interest-rate-hike-live-updates/10561495002/",
+            "urlToImage": "https://www.gannett-cdn.com/-mm-/27de1a8d150de430c721ef32458936d45459c04e/c=0-53-1024-629/local/-/media/2022/09/23/USATODAY/usatsports/jerome-powell-fed-pic.jpeg.jpg?auto=webp&format=pjpg&width=1200",
+            "publishedAt": "2022-11-02T12:04:36Z",
+            "content": "<ul><li>The Fed is poised on Wednesday to raise interest rates for the sixth time this year.</li><li>The hike will make it more expensive for consumers and businesses to borrow money.</li><li>The cen… [+4087 chars]"
+        }
+    ]
+}
